@@ -4,7 +4,8 @@
 
 ### This is a Number Three as well.
 
-li This is an ordered list
-li this is too.
-
+1. This is an ordered list
 * This isn't an ordered list.
+
+2. This is too.
+
